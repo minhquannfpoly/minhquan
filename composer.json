@@ -1,0 +1,15 @@
+{
+    "name": "minhquan/asm",
+    "autoload": {
+        "psr-4": {
+            "Minhquan\\Asm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "minhquan",
+            "email": "quandmph44109@fpt.edu.vn"
+        }
+    ],
+    "require": {}
+}
